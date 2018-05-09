@@ -1,0 +1,4 @@
+$username=xxx
+$envpath=xxx
+$url=xxxxxxxxxxxxxxxxxxxxxxxxxxx
+$DB=XXXXXXX
